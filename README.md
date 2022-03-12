@@ -71,9 +71,9 @@
         * [화수브루어리 서울강북점](#화수브루어리_서울강북점)
         * [휘스펍](#휘스펍)
 
-
-
-
+* [도움주신분](#도움주신분)
+* [Contributing](#Contributing)
+* [LICENSE](#LICENSE)
 
 
 
@@ -364,14 +364,22 @@
 - 종류 : 탭룸
 - 특징 : 
 - [홈페이지](https://www.instagram.com/hweespub/)
-"
 
 
 
+## 도움주신분
+[utilForever](https://github.com/utilForever)
 
 
 
+## Contributing  
+[`CONTRIBUTING.md`](/CONTRIBUTING.md)를 읽고 기여해주세요!
 
- <div align = "center">
-<img src="./support_local.jpg" width="100px" href="http://supportlocal.kr/supportlocal">
+## LICENSE 
+이 프로젝트는 [BEER-WARE LICENSE](/LICENSE)에 따릅니다.
+
+
+
+ <div align = "center" >
+<a href="http://supportlocal.kr/supportlocal"><img src="./support_local.jpg" width="100px" ></a>
 </div>  
