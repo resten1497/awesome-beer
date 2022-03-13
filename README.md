@@ -4,7 +4,6 @@
 </h1>
 
 
-
 ## 개요
 국내의 맥주 브루어리, 맥주 펍, 바틀샵 등  
 크래프트 맥주와 관련된 리스트를 정리한 저장소입니다. 
@@ -66,6 +65,67 @@
         * [흐흐흐](#흐흐흐)
         * [화수브루어리 경주점](#화수브루어리_경주점)
         * [다이노 브루잉](#다이노_브루잉)
+        * [경산브루어리](#경산브루어리)
+        * [별맥](#별맥)
+    * [대구](#대구)
+        * [칠곡브루어리](#칠곡브루어리)
+        * [데니쉬옐로우](#데니쉬옐로우)
+        * [버내너펍](#버내너펍)
+        * [언더브루](#언더브루)
+        * [엠버스펍](#엠버스펍)
+        * [퍼센트](#퍼센트)
+        * [네모펍](#네모펍)
+        * [대도양조장](#대도양조장)
+        * [더키크래프트](#더키크래프트)
+        * [브루어스 브라더스](#브루어스_브라더스)
+        * [잭스펍](#잭스펍)
+        * [블루솔트](#블루솔트)
+    * [전라](#전라)
+        * [파머스브루어리](#파머스브루어리)
+        * [노매딕 브루잉 컴퍼니](#노매딕_브루잉_컴퍼니)
+        * [583 양조장](#583_양조장)
+        * [순천양조장](#순천양조장)
+        * [군산비어포트](#군산비어포트)
+    * [광주](#광주)
+        * [비아브루어리](#비아브루어리)
+    * [울산](#울산)
+        * [트레비어 양조장](#트레비어_양조장)
+        * [멕켄지](#멕켄지)
+        * [화수브루어리](#화수브루어리)
+    * [부산](#부산)
+        * [툼브로이](#툼브로이)
+        * [와일드웨이브](#와일드웨이브)
+        * [부산프라이드브루어리](#부산프라이드브루어리)
+        * [갈매기브루잉 광안본점](#갈매기브루잉_광안본점)
+        * [갈매기브루잉 해운대점](#갈매기브루잉_해운대점)
+        * [갈매기브루잉 남포점](#갈매기브루잉_남포점)
+        * [갈매기브루잉 경성대점](#갈매기브루잉_경성대점)
+        * [허심청브로이](#허심청브로이)
+        * [고릴라브루잉 해운대](#고릴라브루잉_해운대)
+        * [고릴라브루잉](#고릴라브루잉)
+        * [프라하993](#프라하993)
+        * [테트라포드 브루잉](#테트라포드_브루잉)
+        * [프리츠프리츠](#프리츠프리츠)
+        * [벤스하버](#벤스하버)
+        * [세미스피어](#세미스피어)
+        * [케빈보이](#케빈보이)
+        * [거품안넘치게따라줘](#거품안넘치게따라줘)
+    * [제주](#제주)
+        * [맥파이 브루어리](#맥파이_브루어리)
+        * [맥파이 탑동점](#맥파이_탑동점)
+        * [고브루](#고브루)
+        * [제주약수터](#제주약수터)
+        * [제주약수터 올레시장점](#제주약수터_올레시장점)
+        * [펭귄맥주](#펭귄맥주)
+        * [달맥](#달맥)
+        * [스톤아일랜드탭하우스](#스톤아일랜드탭하우스)
+        * [사우스바운더](#사우스바운더)
+        * [나들가게기영상회](#나들가게기영상회)
+
+
+
+
+
 
 
 
@@ -346,7 +406,288 @@
 - 종류 : 브루펍
 - 특징 : 
 - [홈페이지](http://www.instagram.com/dinobrewingco)
+#### [경산브루어리](https://map.naver.com/v5/entry/place/1176921335)
+- 주소 : 경북 경산시 경산로42길 4
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.instagram.com/kyungsan_brewery/)
+#### [별맥](https://map.naver.com/v5/entry/place/1130758874)
+- 주소 : 경북 경산시 압량읍 인안길20길 1
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](http://www.instagram.com/byeolmacbrewing)
+### 대구
+#### [칠곡브루어리](https://map.naver.com/v5/entry/place/1097342920)
+- 주소 : 대구 북구 학정로 435 1층
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.instagram.com/7brewery/)
+#### [데니쉬옐로우](https://map.naver.com/v5/entry/place/672702408)
+- 주소 : 대구 중구 국채보상로 527 2층
+- 종류 : 바틀샵
+- 특징 : 
+- [홈페이지](https://www.instagram.com/danish_yellow_official/)
+#### [버내너펍](https://map.naver.com/v5/entry/place/1257635986)
+- 주소 : 대구 중구 문우관길 19
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](https://www.instagram.com/bananapub_with_ale/)
+#### [언더브루](https://map.naver.com/v5/entry/place/1310960528)
+- 주소 : 대구 중구 봉산문화길 38 지하 1층
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](https://www.instagram.com/underbrew_/)
+#### [엠버스펍](https://map.naver.com/v5/entry/place/1547405526)
+- 주소 : 대구 수성구 들안로 386
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](http://www.instagram.com/amberspub)
+#### [퍼센트](https://map.naver.com/v5/entry/place/37485743)
+- 주소 : 대구 중구 대봉로 206
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](https://www.instagram.com/percent_craftbeer/)
+#### [네모펍](https://map.naver.com/v5/entry/place/1315870109)
+- 주소 : 대구 중구 동덕로 84-3
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](https://blog.naver.com/nemopub)
+#### [대도양조장](https://map.naver.com/v5/entry/place/1355507817)
+- 주소 : 대구 중구 동덕로14길 47
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](http://www.instagram.com/daedo_brewing)
+#### [더키크래프트](https://map.naver.com/v5/entry/place/1004823965)
+- 주소 : 대구 수성구 범어로19길 35
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](https://www.instagram.com/thekeycraftdaegu/)
+#### [브루어스_브라더스](https://map.naver.com/v5/entry/place/36886538)
+- 주소 : 대구 중구 종로 29
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](http://www.instagram.com/brewersbrothers)
+#### [잭스펍](https://map.naver.com/v5/entry/place/1957109700)
+- 주소 : 대구 북구 산격로6길 13 1층 잭스펍 Jack’s pub
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지]()
+#### [블루솔트](https://map.naver.com/v5/entry/place/1522947979)
+- 주소 : 대구 중구 경상감영길 210 1층
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](https://www.instagram.com/bluesalt__/)
+### 전라 
+#### [파머스브루어리](https://map.naver.com/v5/entry/place/1651502871)
+- 주소 : 전북 전주시 완산구 전주객사1길 15 
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지]()
+#### [노매딕_브루잉_컴퍼니](https://map.naver.com/v5/entry/place/1080013888)
+- 주소 : 전북 전주시 완산구 전라감영3길 12-10
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](http://instagram.com/nomadicbrewingco)
+#### [583_양조장](https://map.naver.com/v5/entry/place/1977932103)
+- 주소 : 전북 장수군 장계면 의암로 583-8
+- 종류 : 브루펍 
+- 특징 : 
+- [홈페이지](http://www.583beer.modoo.at)
+#### [순천양조장](https://map.naver.com/v5/entry/place/1572495190)
+- 주소 : 전남 순천시 역전길 57
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.instagram.com/suncheon_brewery/)
+#### [군산비어포트](https://map.naver.com/v5/entry/place/1293874448)
+- 주소 : 전북 군산시 해망로 146-24
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.instagram.com/gunsan_beerport/)
+### 광주
+#### [비아브루어리](https://map.naver.com/v5/entry/place/1995857688)
+- 주소 : 광주 광산구 임방울대로826번길 47
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.instagram.com/via_pub/)
+### 울산
+#### [트레비어_양조장](https://map.naver.com/v5/entry/place/37069573)
+- 주소 : 울산 울주군 언양읍 반구대로 1305-2
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](http://www.trevier.co.kr)
 
+#### [멕켄지](https://map.naver.com/v5/entry/place/1204723138)
+- 주소 : 울산 중구 학성로 83 춘자비어 옆 골목
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](http://www.instagram.com/Ulsan_Mckenzie)
+
+#### [화수브루어리](https://map.naver.com/v5/entry/place/1620469840)
+- 주소 : 울산 남구 왕생로 36
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.instagram.com/whasoobrewery/)
+### 부산
+#### [툼브로이](https://map.naver.com/v5/entry/place/1791164031)
+- 주소 : 부산 해운대구 해운대로 1244
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.instagram.com/turmbrau_korea/)
+#### [와일드웨이브](https://map.naver.com/v5/entry/place/37642698)
+- 주소 : 부산 해운대구 송정중앙로5번길 106-1
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.wildwavebrew.com/)
+
+#### [부산프라이드브루어리](https://map.naver.com/v5/entry/place/1094824462)
+- 주소 : 부산 기장군 기장읍 동서길 84-2
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](http://busanpridebrewery.com/)
+
+#### [갈매기브루잉_광안본점](https://map.naver.com/v5/entry/place/37293668)
+- 주소 : 부산광역시 수영구 광남로 85, 2층
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.instagram.com/galmegibrewing_gwangan/)
+
+#### [갈매기브루잉_해운대점](https://map.naver.com/v5/entry/place/37337102)
+- 주소 : 부산광역시 해운대구 해운대해변로 265번길 9, 2층
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.instagram.com/galmegibrewinghaeundae/)
+
+#### [갈매기브루잉_남포점](https://map.naver.com/v5/entry/place/37828107)
+- 주소 : 부산광역시 중구 광복로 21-3, 2층
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.instagram.com/galmegibrewingnampo/)
+
+#### [갈매기브루잉_경성대점](https://map.naver.com/v5/entry/place/969276822)
+- 주소 : 부산 남구 수영로334번길 13, 2층
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.instagram.com/galmegi_brewing_ksu/)
+
+#### [허심청브로이](https://map.naver.com/v5/entry/place/31558252)
+- 주소 : 부산 동래구 금강공원로20번길 23
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지]()
+
+#### [고릴라브루잉_해운대](https://map.naver.com/v5/entry/place/1041542249)
+- 주소 : 부산 해운대구 해운대로570번길 46
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](http://www.gorilla.beer)
+
+#### [고릴라브루잉](https://map.naver.com/v5/entry/place/37010572)
+- 주소 : 부산 수영구 광남로 125 2층
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](http://www.gorilla.beer)
+
+#### [프라하993](https://map.naver.com/v5/entry/place/860462240)
+- 주소 : 부산 수영구 구락로123번길 20
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](http://praha993.com/)
+
+#### [테트라포드_브루잉](https://map.naver.com/v5/entry/place/512550129)
+- 주소 : 부산 부산진구 중앙대로 680번가길 77, 2층
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.instagram.com/tetrapod_brewing_co/)
+
+#### [프리츠프리츠](https://map.naver.com/v5/entry/place/1915163311)
+- 주소 : 부산 부산진구 전포대로255번길 43-14 2층
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](https://www.instagram.com/fritzfritz_/)
+
+#### [벤스하버](https://map.naver.com/v5/entry/place/1406027655)
+- 주소 : 부산 금정구 장전로12번길 24 벤스하버
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](https://www.instagram.com/bensharbour/)
+
+#### [세미스피어](https://map.naver.com/v5/entry/place/1118453140)
+- 주소 : 부산 금정구 장전온천천로 51 1층 103-1호 Semisphere
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](https://www.instagram.com/semisphere_bottleshop/?igshid=9lny22jxajbs)
+
+#### [케빈보이](https://map.naver.com/v5/entry/place/1181567996)
+- 주소 : 부산 부산진구 부전로20번길 26
+- 종류 : 바틀샵
+- 특징 : 
+- [홈페이지](https://www.instagram.com/_cabin_boy/)
+
+#### [거품안넘치게따라줘](https://map.naver.com/v5/entry/place/1437444827)
+- 주소 : 부산 부산진구 서전로9번길 14 1층 거품안넘치게따라줘
+- 종류 : 바틀샵
+- 특징 : 
+- [홈페이지](https://www.instagram.com/nobubble.please/?utm_medium=copy_link)
+### 제주 
+#### [맥파이_브루어리](https://map.naver.com/v5/entry/place/38350155)
+- 주소 : 제주 제주시 동회천1길 23
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](http://www.magpiebrewing.com/)
+
+#### [맥파이_탑동점](https://map.naver.com/v5/entry/place/35877514)
+- 주소 : 제주  제주시 탑동로2길 7 2층
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](http://www.magpiebrewing.com/)
+
+#### [고브루](https://map.naver.com/v5/entry/place/1159492732)
+- 주소 : 제주 서귀포시 남성중로 171
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](http://www.instagram.com/gobrew_jeju)
+
+#### [제주약수터](https://map.naver.com/v5/entry/place/1259656724)
+- 주소 : 제주 서귀포시 중앙로 35 1층
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](http://www.instagram.com/jeju_beer_fountain)
+
+#### [제주약수터_올레시장점](https://map.naver.com/v5/entry/place/1777244767)
+- 주소 : 제주 서귀포시 중앙로48번길 10
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](http://www.instagram.com/jeju_beer_fountain)
+
+#### [펭귄맥주](https://map.naver.com/v5/entry/place/1618293647)
+- 주소 : 제주 제주시 구산로 22-7 102호
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](https://www.instagram.com/penguin_beer_jeju/)
+
+#### [달맥](https://map.naver.com/v5/entry/place/1098048149)
+- 주소 : 제주 제주시 광양13길 6-2
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](http://instagram.com/moonbeer_jeju)
+
+#### [스톤아일랜드탭하우스](https://map.naver.com/v5/entry/place/1244422132)
+- 주소 : 제주 제주시 삼무로7길 16 1층 스톤아일랜드탭하우스
+- 종류 : 탭룸
+- 특징 : 
+- [홈페이지](http://instagram.com/stoneisland_taphouse)
+
+#### [사우스바운더](https://map.naver.com/v5/entry/place/1655818658)
+- 주소 : 제주 서귀포시 예래로 33
+- 종류 : 브루펍
+- 특징 : 
+- [홈페이지](https://www.instagram.com/southbounderbrewery/)
+
+#### [나들가게기영상회](https://map.naver.com/v5/entry/place/30991666)
+- 주소 : 제주 제주시 한림읍 한림로 345
+- 종류 : 바틀샵
+- 특징 : 
+- [홈페이지](https://www.instagram.com/josiesbottleshop/)"
 
 ## 도움주신분
 [utilForever](https://github.com/utilForever)
@@ -365,4 +706,5 @@
  <div align = center >
 <a href="http://supportlocal.kr/supportlocal"><img src="./support_local.jpg" width="100px" ></a>
 </div>  
+
 
