@@ -4,14 +4,13 @@
 </h1>
 
 
-<h1 align="center">
+<h3 align="center">
         <a href="https://www.beerexpo.kr/main/" target="_blank">
         <img src="kibex-logo.png" >
         </a>
         <br>
-        맥주 박람회 KIBEX가 <br> 4/1(토) 부터 4/2(일) 까지 열립니다!
-</h1>
-
+        맥주 박람회 KIBEX가 <strong>4/1(토) ~ 4/2(일)</strong>에 열립니다!
+</h3>
 
 
 
