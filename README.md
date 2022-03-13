@@ -4,6 +4,17 @@
 </h1>
 
 
+<h1 align="center">
+        <a href="https://www.beerexpo.kr/main/" target="_blank">
+        <img src="kibex-logo.png" >
+        </a>
+        <br>
+        맥주 박람회 KIBEX가 <br> 4/1(토) 부터 4/2(일) 까지 열립니다!
+</h1>
+
+
+
+
 ## 개요
 국내의 맥주 브루어리, 맥주 펍, 바틀샵 등  
 크래프트 맥주와 관련된 리스트를 정리한 저장소입니다. 
@@ -704,7 +715,7 @@
 
 
  <div align = center >
-<a href="http://supportlocal.kr/supportlocal"><img src="./support_local.jpg" width="100px" ></a>
+<a href="http://supportlocal.kr/supportlocal" target="_blank"><img src="./support_local.jpg" width="100px" ></a>
 </div>  
 
 
