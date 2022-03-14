@@ -725,12 +725,12 @@
 - 주소 : 제주 제주시 한림읍 한림로 345
 - 종류 : 바틀샵
 - 특징 : 
-- [홈페이지](https://www.instagram.com/josiesbottleshop/)"
+- [홈페이지](https://www.instagram.com/josiesbottleshop/)
 
 ## 도움주신분
-[utilForever](https://github.com/utilForever)
-[Typiespectre](https://github.com/Typiespectre)
-
+[utilForever](https://github.com/utilForever)  <br>
+[Typiespectre](https://github.com/Typiespectre) <br>
+본 프로젝트는 [OpenBrewerydb](https://github.com/openbrewerydb/openbrewerydb) 를 참고하였습니다.  
 
 
 ## Contributing  
