@@ -644,9 +644,9 @@
 - [홈페이지](https://www.instagram.com/fritzfritz_/)
 
 #### [벤스하버](https://map.naver.com/v5/entry/place/1406027655)
-- 주소 : 부산 금정구 장전로12번길 24 벤스하버
+- 주소 : 부산 금정구 장전로12번길 24 벤스하버 
 - 종류 : 탭룸
-- 특징 : 
+- 특징 : * 3월 20일(일)을 끝으로 페업, 이후 컬러드 브루잉으로 통합
 - [홈페이지](https://www.instagram.com/bensharbour/)
 
 #### [세미스피어](https://map.naver.com/v5/entry/place/1118453140)
