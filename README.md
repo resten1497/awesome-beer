@@ -1,4 +1,4 @@
-<h1 align="center" font-size="30px">
+﻿<h1 align="center" font-size="30px">
 🍻
 <br> Awesome Beer 
 </h1>
@@ -88,6 +88,13 @@
           * [홉홉](#홉홉)
           * [홉홉플래닛](#홉홉플래닛)
           * [더랜치펍](#더랜치펍)
+          * [에잇마일](#에잇마일)
+          * [두탭스](#두탭스)
+          * [리틀탭](#리틀탭)
+          * [크래프트피피](#크래프트피피)
+          * [몰트몰트](#몰트몰트)
+          * [공방브루](#공방브루)
+          * [바틀샵OPENER](#바틀샵OPENER)
      * [부산](#부산)
           * [툼브로이](#툼브로이)
           * [와일드웨이브](#와일드웨이브)
@@ -466,6 +473,41 @@
    - 종류 : 탭룸
    - 특징 : 
    - [홈페이지](https://www.instagram.com/theranchpub/)
+ #### [에잇마일](http://naver.me/5aVteY7o)
+   - 주소 : 대전 서구 둔지로 52 1층 103호
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/8mile_pizza/)
+   #### [두탭스](http://naver.me/Fk5atkiw)
+   - 주소 : 대전 중구 중앙로130번길 37-14 1F
+   - 종류 : 탭룸
+   - 특징 : 괴즈, 람빅 종류 상당량 보유중.
+   - [홈페이지](https://www.instagram.com/dotapscraft/)
+  #### [리틀탭](http://naver.me/FJHivonA)
+   - 주소 : 대전 유성구 노은로 150 드래곤랜드
+   - 종류 : 탭룸
+   - 특징 : 스타우트, 임페리얼 스타우트 전문.
+   - [홈페이지](https://www.instagram.com/littletapbeer/)
+  #### [크래프트피피](http://naver.me/Fa3SHZlb)
+   - 주소 : 대전 서구 대덕대로175번길 60 메르하우젠
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/craft_peepee/)
+ #### [몰트몰트](http://naver.me/Fn2D7aMR)
+   - 주소 : 대전 서구 대덕대로161번길 13 지하1층
+   - 종류 : 탭룸
+   - 특징 : 위스키 전문이지만 수제 맥주가 있어 다양하게 즐기기 좋음
+   - [홈페이지](https://www.instagram.com/malt_molt/)
+#### [공방브루](http://naver.me/FKKTirIP)
+   - 주소 : 대전 서구 대덕대로161번길 13 지하1층
+   - 종류 : 공방
+   - 특징 : 맥주 공방 
+   - [홈페이지](https://www.instagram.com/daejeon_brew/)
+ #### [바틀샵OPENER](http://naver.me/xrP6K6ra)
+   - 주소 : 대전 유성구 관평1로 94-11
+   - 종류 : 바틀샵
+   - 특징 : 와인, 맥주 종류 다양함.
+   - [홈페이지](https://www.instagram.com/in6970/)
    ### 부산
 #### [툼브로이](https://map.naver.com/v5/entry/place/1791164031)
    - 주소 : 부산 해운대구 해운대로 1244
