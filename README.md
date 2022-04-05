@@ -161,6 +161,7 @@
           * [정동독립맥주공장](#정동독립맥주공장)
           * [헤이웨이브](#헤이웨이브)
           * [세븐브로이펍_여의도점](#세븐브로이펍_여의도점)
+          * [크래프트원](#크래프트원)
      * [울산](#울산)
           * [트레비어_양조장](#트레비어_양조장)
           * [멕켄지](#멕켄지)
@@ -463,37 +464,38 @@
    - 종류 : 탭룸
    - 특징 : 
    - [홈페이지](https://www.instagram.com/theranchpub/)
- #### [에잇마일](http://naver.me/5aVteY7o)
+   #### [에잇마일](http://naver.me/5aVteY7o)
    - 주소 : 대전 서구 둔지로 52 1층 103호
    - 종류 : 탭룸
    - 특징 : 
    - [홈페이지](https://www.instagram.com/8mile_pizza/)
    #### [두탭스](http://naver.me/Fk5atkiw)
-   - 주소 : 대전 중구 중앙로130번길 37-14 1F
+   - 주소 : 대전 중구 중앙로130번길 37-14
    - 종류 : 탭룸
    - 특징 : 괴즈, 람빅 종류 상당량 보유중.
    - [홈페이지](https://www.instagram.com/dotapscraft/)
-  #### [리틀탭](http://naver.me/FJHivonA)
-   - 주소 : 대전 유성구 노은로 150 드래곤랜드
+   #### [리틀탭](http://naver.me/FJHivon)
+   - 주소 : 대전 유성구 노은로 150
    - 종류 : 탭룸
    - 특징 : 스타우트, 임페리얼 스타우트 전문.
    - [홈페이지](https://www.instagram.com/littletapbeer/)
-  #### [크래프트피피](http://naver.me/Fa3SHZlb)
+   #### [크래프트피피](http://naver.me/Fa3SHZlb)
    - 주소 : 대전 서구 대덕대로175번길 60 메르하우젠
    - 종류 : 탭룸
    - 특징 : 
    - [홈페이지](https://www.instagram.com/craft_peepee/)
- #### [몰트몰트](http://naver.me/Fn2D7aMR)
-   - 주소 : 대전 서구 대덕대로161번길 13 지하1층
+   #### [몰트몰트](http://naver.me/Fn2D7aMR)
+   - 주소 : 대전 서구 대덕대로161번길 13
    - 종류 : 탭룸
    - 특징 : 위스키 전문이지만 수제 맥주가 있어 다양하게 즐기기 좋음
    - [홈페이지](https://www.instagram.com/malt_molt/)
-#### [공방브루](http://naver.me/FKKTirIP)
-   - 주소 : 대전 서구 대덕대로161번길 13 지하1층
+   #### [공방브루](http://naver.me/FKKTirIP)
+   - 주소 : 대전 중구 중앙로 136-1 
    - 종류 : 공방
    - 특징 : 맥주 공방 
-   - [홈페이지](https://www.instagram.com/daejeon_brew/)
- #### [바틀샵OPENER](http://naver.me/xrP6K6ra)
+   - [홈페이지](https://www.instagram.com/daejeon_brew
+)
+   #### [바틀샵OPENER](http://naver.me/xrP6K6ra)
    - 주소 : 대전 유성구 관평1로 94-11
    - 종류 : 바틀샵
    - 특징 : 와인, 맥주 종류 다양함.
@@ -870,6 +872,11 @@
    - 종류 : 브루펍
    - 특징 : 
    - [홈페이지](https://www.instagram.com/sevenbrau/)
+   #### [크래프트원](https://map.naver.com/v5/entry/place/32762630)
+   - 주소 : 서울 마포구 연희로 35 2층
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](http://www.instagram.com/craftonepub)
    ### 울산
 #### [트레비어_양조장](https://map.naver.com/v5/entry/place/37069573)
    - 주소 : 울산 울주군 언양읍 반구대로 1305-2
@@ -1029,6 +1036,8 @@
 ## 도움주신분
 [utilForever](https://github.com/utilForever)  <br>
 [Typiespectre](https://github.com/Typiespectre) <br>
+[Doker](https://github.com/tenn6871) <br>
+
 본 프로젝트는 [OpenBrewerydb](https://github.com/openbrewerydb/openbrewerydb) 를 참고하였습니다.  
 
 
