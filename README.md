@@ -1,4 +1,4 @@
-﻿<h1 align="center" font-size="30px">
+<h1 align="center" font-size="30px">
 🍻
 <br> Awesome Beer 
 </h1>
@@ -46,6 +46,22 @@
           * [세븐브로이펍_향남점](#세븐브로이펍_향남점)
           * [세븐브로이펍_중동점](#세븐브로이펍_중동점)
           * [카브루_상색_브루어리](#카브루_상색_브루어리)
+          * [댕크야드_레코드바](#댕크야드_레코드바)
+          * [후안즈](#후안즈)
+          * [64앨리스탭하우스](#64앨리스탭하우스)
+          * [노군맥주](#노군맥주)
+          * [노군맥주이층](#노군맥주이층)
+          * [베베양조](#베베양조)
+          * [맥다방](#맥다방)
+          * [바틀5150](#바틀5150)
+          * [몰티스_브루펍_](#몰티스_브루펍_)
+          * [한우돌곱창](#한우돌곱창)
+          * [그레이트이스트](#그레이트이스트)
+          * [더바틀룸](#더바틀룸)
+          * [후펍](#후펍)
+          * [이스트앤박테리아](#이스트앤박테리아)
+          * [노군수제맥주_동탄점](#노군수제맥주_동탄점)
+          * [노군수제맥주_화성시청점](#노군수제맥주_화성시청점)
      * [경상](#경상)
           * [가나다라브루어리](#가나다라브루어리)
           * [안동맥주퍼블릭하우스](#안동맥주퍼블릭하우스)
@@ -58,6 +74,11 @@
           * [다이노_브루잉](#다이노_브루잉)
           * [경산브루어리](#경산브루어리)
           * [별맥](#별맥)
+          * [화이트래빗](#화이트래빗)
+          * [통영맥주](#통영맥주)
+          * [진주탭룸](#진주탭룸)
+          * [위캔드커먼](#위캔드커먼)
+          * [호피홀리데이](#호피홀리데이)
      * [광주](#광주)
           * [비아브루어리](#비아브루어리)
      * [대구](#대구)
@@ -103,6 +124,12 @@
           * [세미스피어](#세미스피어)
           * [케빈보이](#케빈보이)
           * [거품안넘치게따라줘](#거품안넘치게따라줘)
+          * [비어샵](#비어샵)
+          * [컬러드](#컬러드)
+          * [꼽표XXX](#꼽표XXX)
+          * [티아펍](#티아펍)
+          * [아키투탭하우스](#아키투탭하우스)
+          * [와일드캣브루잉](#와일드캣브루잉)
      * [서울](#서울)
           * [Goose_Island_Brewhouse_Seoul](#Goose_Island_Brewhouse_Seoul)
           * [가로수_브루잉_컴퍼니](#가로수_브루잉_컴퍼니)
@@ -162,6 +189,21 @@
           * [헤이웨이브](#헤이웨이브)
           * [세븐브로이펍_여의도점](#세븐브로이펍_여의도점)
           * [크래프트원](#크래프트원)
+          * [유미마트](#유미마트)
+          * [Bel.G](#Bel.G)
+          * [화이트래빗](#화이트래빗)
+          * [브루독_이태원](#브루독_이태원)
+          * [에일크루브루잉](#에일크루브루잉)
+          * [엑셀플레이스](#엑셀플레이스)
+          * [개포술장](#개포술장)
+          * [Play_Unknown_Beer](#Play_Unknown_Beer)
+          * [더풀비어](#더풀비어)
+          * [주류사회](#주류사회)
+          * [로즈앤크라운](#로즈앤크라운)
+          * [아인글라스](#아인글라스)
+          * [히든트랙](#히든트랙)
+          * [맥주덕후_피자덕후](#맥주덕후_피자덕후)
+          * [NOOSA_PUB](#NOOSA_PUB)
      * [울산](#울산)
           * [트레비어_양조장](#트레비어_양조장)
           * [멕켄지](#멕켄지)
@@ -173,12 +215,14 @@
           * [올빼미브루펍](#올빼미브루펍)
           * [플레이그라운드_브루어리_탭룸_송도](#플레이그라운드_브루어리_탭룸_송도)
           * [슬로스브루잉](#슬로스브루잉)
+          * [엑스트라스몰_브루잉룸](#엑스트라스몰_브루잉룸)
      * [전라](#전라)
           * [파머스브루어리](#파머스브루어리)
           * [노매딕_브루잉_컴퍼니](#노매딕_브루잉_컴퍼니)
           * [583_양조장](#583_양조장)
           * [순천양조장](#순천양조장)
           * [군산비어포트](#군산비어포트)
+          * [오매](#오매)
      * [제주](#제주)
           * [맥파이_브루어리](#맥파이_브루어리)
           * [맥파이_탑동점](#맥파이_탑동점)
@@ -320,6 +364,88 @@
    - 종류 : 브루펍
    - 특징 : 
    - [홈페이지](https://www.instagram.com/kabrewbeer)
+   #### [댕크야드_레코드바](http://naver.me/xZD0zlCl)
+   - 주소 : 경기 하남시 미사강변중앙로 223 3층 304호
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/dankyard_bar_/)
+   #### [후안즈](http://naver.me/IFjFsf3w)
+   - 주소 : 경기 성남시 분당구 판교공원로2길 55 
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](http://www.instagram.com/juan.augustinus)
+   #### [64앨리스탭하우스](http://naver.me/59j8AB00)
+   - 주소 : 경기 평택시 평택로64번길 21-5
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지]()
+   #### [노군맥주](http://naver.me/GyeyrTd1)
+   - 주소 : 경기 수원시 팔달구 아주로13번길 22 1층
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/nogoonbeer_1f)
+   #### [노군맥주이층](http://naver.me/FS6Gj2S6)
+   - 주소 : 경기 수원시 영통구 아주로4번길 16 2층
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](http://instagram.com/nogoonbeer_2f)
+   #### [베베양조](http://naver.me/G8U3OfIQ)
+   - 주소 : 경기 광주시 용샘길 35-1
+   - 종류 : 브루펍
+   - 특징 : 
+   - [홈페이지](http://www.beberbrewery.com/)
+   #### [맥다방](http://naver.me/FHYMnQAH)
+   - 주소 : 경기 고양시 일산서구 고양대로672번길 21
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/macdabang/)
+   #### [바틀5150](http://naver.me/FpXMKXkz)
+   - 주소 : 경기 양주시 장흥면 호국로 176-16
+   - 종류 : 바틀샵
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/bottle5150/)
+   #### [몰티스_브루펍_](http://naver.me/GnG0Lysk)
+   - 주소 : 경기 고양시 일산동구 하늘마을1로 16-10 에스플러스타워 1층
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](http://www.instagram.com/maltys_official)
+   #### [한우돌곱창](http://naver.me/GkKSWtuV)
+   - 주소 : 경기 화성시 동탄중심상가2길 36	
+   - 종류 : 곱창집
+   - 특징 : 곱창과 같이 수제맥주를 드셔보세요
+   - [홈페이지](https://www.instagram.com/hanwoo0033/)
+   #### [그레이트이스트](http://naver.me/5qRnvVN2)
+   - 주소 : 경기 수원시 영통구 월드컵로179번길 14-12 2층
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/greateastpub/)
+   #### [더바틀룸](http://naver.me/5zJov4JU)
+   - 주소 : 경기 성남시 분당구 정자일로 121
+
+   - 종류 : 바틀샵
+   - 특징 : 여러 종류의 맥주를 판매하는 바틀샵입니다
+   - [홈페이지](http://www.instagram.com/the_bottle_room
+)
+   #### [후펍](http://naver.me/GrSq2Pnj)
+   - 주소 : 경기 용인시 처인구 포곡읍 포곡로61번길 6
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](http://www.instagram.com/hoo_pub)
+   #### [이스트앤박테리아](http://naver.me/59eURL00)
+   - 주소 : 경기 수원시 팔달구 정조로892번길 17 1층
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/yeastandbacteria)
+   #### [노군수제맥주_동탄점](http://naver.me/GeW7pe0E)
+   - 주소 : 경기 화성시 동탄반송2길 25-5
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/nogoon002/)
+   #### [노군수제맥주_화성시청점](http://naver.me/5cTNFnTZ)
+   - 주소 : 경기 화성시 남양읍 역골동로 9-16 1층
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/nogoon003/)
    ### 경상
 #### [가나다라브루어리](https://map.naver.com/v5/entry/place/1073000773)
    - 주소 : 경북 문경시 문경대로 625-1
@@ -376,6 +502,31 @@
    - 종류 : 브루펍
    - 특징 : 
    - [홈페이지](http://www.instagram.com/byeolmacbrewing)
+   #### [화이트래빗](http://naver.me/FIpPyQ6N)
+   - 주소 : 경남 창원시 마산합포구 오동북5길 23
+   - 종류 : 탭룸
+   - 특징 : 서점과 같은 분위기의 펍
+   - [홈페이지]()
+   #### [통영맥주](http://naver.me/FEJdzxDn)
+   - 주소 : 경남 통영시 항북길 53
+   - 종류 : 브루펍
+   - 특징 : 목욕탕을 개조한 맥주집입니다.
+   - [홈페이지](http://instagram.com/donghotang)
+   #### [진주탭룸](http://naver.me/GEAIf39z)
+   - 주소 : 경남 진주시 신평공원길7번길 12
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](http://www.instagram.com/jinju_taproom)
+   #### [위캔드커먼](http://naver.me/FS6UukVf)
+   - 주소 : 경북 경주시 원효로 152-2
+   - 종류 : 바틀샵
+   - 특징 : 매주 금,토,일 만 오픈하는 바틀샵입니다.
+   - [홈페이지](https://www.instagram.com/weekendcommon/)
+   #### [호피홀리데이](http://naver.me/xWNTLQWm)
+   - 주소 : 경북 의성군 안계면 소보안계로 2068
+   - 종류 : 공방
+   - 특징 : 
+   - [홈페이지](http://hoppyholiday.us/)
    ### 광주
 #### [비아브루어리](https://map.naver.com/v5/entry/place/1995857688)
    - 주소 : 광주 광산구 임방울대로826번길 47
@@ -459,7 +610,7 @@
    - 종류 : 탭룸
    - 특징 : 
    - [홈페이지](http://instagram.com/hophopp_lounge)
-   #### [더랜치펍](https://map.naver.com/v5/entry/place/2134883)
+   #### [더랜치펍](http://naver.me/F36Exq7J)
    - 주소 : 대전 유성구 궁동로18번길 88 
    - 종류 : 탭룸
    - 특징 : 
@@ -586,6 +737,36 @@
    - 종류 : 바틀샵
    - 특징 : 
    - [홈페이지](https://www.instagram.com/nobubble.please/?utm_medium=copy_link)
+   #### [비어샵](http://naver.me/FKZXrWjs)
+   - 주소 : 부산 부산진구 전포대로210번길 24-7 1층, 2층
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/beershop.kr/)
+   #### [컬러드](http://naver.me/GhPW9zL2)
+   - 주소 : 부산 금정구 부산대학로63번길 39
+   - 종류 : 브루펍
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/coloredd_brew/)
+   #### [꼽표XXX](http://naver.me/IDBxZOFC)
+   - 주소 : 부산 동래구 온천천로437번길 25
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/ggobpyo____taproom/)
+   #### [티아펍](http://naver.me/xrPnegCk)
+   - 주소 : 부산 중구 부평1길 4
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/tiapub/)
+   #### [아키투탭하우스](http://naver.me/5eGwpELW)
+   - 주소 : 부산 중구 남포길 31
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/akitu_tap_house/)
+   #### [와일드캣브루잉](http://naver.me/GjR0XAIY)
+   - 주소 : 부산 부산진구 신천대로62번길 2 
+   - 종류 : 브루펍
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/wildcatbrewing/)
    ### 서울
 #### [Goose_Island_Brewhouse_Seoul](https://map.naver.com/v5/entry/place/505375149)
    - 주소 : 서울 강남구 역삼로 118
@@ -605,7 +786,7 @@
    #### [비어플라주](https://map.naver.com/v5/entry/place/38653756)
    - 주소 : 서울 강남구 봉은사로 447 아르헤 타워
    - 종류 : 탭룸
-   - 특징 : 
+   - 특징 : 강아지 두마리와, 분위기 좋은 맥주집
    - [홈페이지](http://www.instagram.com/beerflage/)
    #### [휘스펍](https://map.naver.com/v5/entry/place/36262729)
    - 주소 : 서울 강동구 풍성로58길 12
@@ -625,7 +806,7 @@
    #### [바틀리스트](https://map.naver.com/v5/entry/place/1898657472)
    - 주소 : 서울 강서구 강서로 433 116호
    - 종류 : 바틀샵
-   - 특징 : 
+   - 특징 : 와인과, 맥주를 판매하는 맥주
    - [홈페이지](https://www.instagram.com/bottlelist_/)
    #### [비어업](https://map.naver.com/v5/entry/place/1205241876)
    - 주소 : 서울 강서구 마곡중앙6로 45
@@ -635,17 +816,17 @@
    #### [LINGO](https://map.naver.com/v5/entry/place/36740119)
    - 주소 : 서울 관악구 봉천로 518-4 유호빌딩
    - 종류 : 탭룸
-   - 특징 : 
+   - 특징 : 샤로수길의 유명한 탭룸, 수제치킨이 정말 맛있고, 매주 금요일 마다 스페셜 게스트라는 맥주가 온탭되는것이 특징
    - [홈페이지](https://www.instagram.com/tap_house_lingo/)
    #### [아쉬트리](https://map.naver.com/v5/entry/place/1083144317)
    - 주소 : 서울 광진구 아차산로49길 22
    - 종류 : 브루펍
-   - 특징 : 
+   - 특징 : 영국식에일을 만드는 브루어
    - [홈페이지](https://www.instagram.com/ashtreebrewery/)
    #### [알고](https://map.naver.com/v5/entry/place/810682299)
    - 주소 : 서울 광진구 광나루로17길 10
    - 종류 : 탭룸
-   - 특징 : 
+   - 특징 : 소세지를 직접 만드는 탭룸, 맥주와 함께 직접 만든 소세지를 드셔보세요
    - [홈페이지](http://instagram.com/algo_sausage_official)
    #### [브로이하우스바네하임](https://map.naver.com/v5/entry/place/11572023)
    - 주소 : 서울 노원구 공릉로32길 54 고려빌딩
@@ -655,17 +836,17 @@
    #### [타일러](https://map.naver.com/v5/entry/place/1339857574)
    - 주소 : 서울 동대문구 하정로 46
    - 종류 : 탭룸
-   - 특징 : 
+   - 특징 : 낮술, 혼술 하기 좋은 곳, 국내 맥주 위주로 준비되어있다.
    - [홈페이지](https://www.instagram.com/tylerseoul/)
    #### [누바](https://map.naver.com/v5/entry/place/21074787)
    - 주소 : 서울 마포구 와우산로29바길 20 
    - 종류 : 탭룸
-   - 특징 : 
+   - 특징 : 벨기에 가게를 그대로 가져다 놓은 듯한 분위기, 벨기에식 맥주들 위주로 준비되어있다
    - [홈페이지](http://instagram.com/nuba_seoul)
    #### [미스터리_브루잉](https://map.naver.com/v5/entry/place/1027233132)
    - 주소 : 서울 마포구 독막로 311
    - 종류 : 브루펍
-   - 특징 : 
+   - 특징 : 공덕의 맥주 양조장, 맛있는 여러 맥주들을 만드는 지역 양조장
    - [홈페이지](http://www.mysterleebrewing.com/)
    #### [브루브루](https://map.naver.com/v5/entry/place/1102410560)
    - 주소 : 서울 마포구 월드컵로3길 50
@@ -675,22 +856,22 @@
    #### [브루하임](https://map.naver.com/v5/entry/place/1997046704)
    - 주소 : 서울 마포구 양화로10길 36
    - 종류 : 탭룸
-   - 특징 : 
+   - 특징 : 여행을 떠나는 듯한 가게 분위기가 특징인 맥주가게
    - [홈페이지](http://www.instagram.com/brewheimseoul)
    #### [색다른한잔](https://map.naver.com/v5/entry/place/1949915733)
    - 주소 : 서울 마포구 독막로2길 35 
    - 종류 : 탭룸
-   - 특징 : 
+   - 특징 : 새롭게 보는 맥주들을 보게된 맥주집, 중국 맥주나 여러 독특한 맥주들을 볼 수 있고, 비건 지향 맥주집이다.
    - [홈페이지](http://www.instagram.com/saekdareun1)
    #### [서울_브루어리](https://map.naver.com/v5/entry/place/1740988081)
    - 주소 : 서울 마포구 토정로3안길 10
    - 종류 : 브루펍
-   - 특징 : 
+   - 특징 : 합정의 브루어리, 직접 만든 맥주들을 판매하고있다.
    - [홈페이지](https://www.seoulbrewery.com/home)
    #### [에일크루](https://map.naver.com/v5/entry/place/1080810206)
    - 주소 : 서울 마포구 와우산로37길 7
    - 종류 : 브루펍
-   - 특징 : 
+   - 특징 : 뉴 잉글랜드 IPA를 잘만드는 브루어리, 음식과 함께 판매하는 곳이라 혼자보단 여럿이서 가기좋
    - [홈페이지](https://www.instagram.com/alecrew_taphouse)
    #### [웨일펍](https://map.naver.com/v5/entry/place/35756687)
    - 주소 : 서울 마포구 독막로 72
@@ -700,7 +881,7 @@
    #### [뉴타운](https://map.naver.com/v5/entry/place/481514820)
    - 주소 : 서울 서대문구 연세로12길 27
    - 종류 : 탭룸
-   - 특징 : 
+   - 특징 : 신촌의 맥주집, 해외 맥주 위주의 맥주가 많이 있다.
    - [홈페이지](https://www.instagram.com/newtownbehere/)
    #### [브루어리304](https://map.naver.com/v5/entry/place/38328506)
    - 주소 : 서울 서대문구 통일로11길 7
@@ -715,7 +896,7 @@
    #### [크래프트브로스_탭하우스_&_바틀샵](https://map.naver.com/v5/entry/place/35044765)
    - 주소 : 서울 서초구 사평대로22길 18
    - 종류 : 브루펍
-   - 특징 : 
+   - 특징 : 뉴잉글랜드 IPA를 잘만드는 브루어리인 크래프트브로스에서 운영하는 탭룸&바틀샵 혼술하기도 좋고, 다같이 가서 먹기도 좋은 가게다.
    - [홈페이지](http://www.craftbros.co.kr/)
    #### [JAFA_Brewery](https://map.naver.com/v5/entry/place/1606478146)
    - 주소 : 서울 성동구 성수이로14길 14
@@ -877,6 +1058,82 @@
    - 종류 : 탭룸
    - 특징 : 
    - [홈페이지](http://www.instagram.com/craftonepub)
+   #### [유미마트](http://naver.me/xTeSsfWu)
+   - 주소 : 서울 강동구 진황도로27길 4 
+   - 종류 : 바틀샵
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/yumimart1/)
+   #### [Bel.G](http://naver.me/x1emIBof)
+   - 주소 : 서울 용산구 녹사평대로54길 23
+   - 종류 : 탭룸
+   - 특징 : 벨기에 맥주 위주로 판매하는 펍
+   - [홈페이지](https://www.instagram.com/bel.g_belgium/)
+   #### [화이트래빗](http://naver.me/GXEt5ELM)
+   - 주소 : 서울 용산구 녹사평대로 242
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/white_rabbit_taphouse/)
+   #### [브루독_이태원](http://naver.me/58HF0Oka)
+   - 주소 : 서울 용산구 이태원로27나길 40 B104호
+   - 종류 : 브루펍
+   - 특징 : 브루독 맥주를 판매하는 브루펍
+   - [홈페이지](https://www.instagram.com/brewdogkr/)
+   #### [에일크루브루잉](http://naver.me/FyeuMxcf)
+   - 주소 : 서울 마포구 모래내로 87
+   - 종류 : 브루펍
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/alecrew_brewing)
+   #### [엑셀플레이스](http://naver.me/FQ5u65s8)
+   - 주소 : 서울 성동구 고산자로 335
+   - 종류 : 탭룸
+   - 특징 : 맥주 뿐만 아니라 위스키, 수제버거, 스테이크등을 판매하는 가게
+   - [홈페이지](https://www.instagram.com/excelplace_majang/)
+   #### [개포술장](http://naver.me/FAr8GVuv)
+   - 주소 : 서울 강남구 논현로 4 
+   - 종류 : 바틀샵
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/gaepo_sooljang/)
+   #### [Play_Unknown_Beer](http://naver.me/GJrFhF0C)
+   - 주소 : 서울 마포구 토정로3길 22 1층
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](http://instagram.com/playunknownbeer)
+   #### [더풀비어](http://naver.me/57wAwXIE)
+   - 주소 : 서울 마포구 월드컵북로9길 24
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/the_fool_beer/)
+   #### [주류사회](http://naver.me/Gulslv2g)
+   - 주소 : 서울 마포구 양화로 45
+   - 종류 : 바틀샵
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/sool_society/)
+   #### [로즈앤크라운](http://naver.me/xM28j9vX)
+   - 주소 : 서울 용산구 이태원로19길 6
+   - 종류 : 탭룸
+   - 특징 : 영국식 스타일 펍입니다.
+   - [홈페이지](http://www.instagram.com/the_roseandcrown
+)
+   #### [아인글라스](http://naver.me/F1LDE3Ez)
+   - 주소 : 서울 서초구 양재천로 143-12
+   - 종류 : 브루펍
+   - 특징 : 뮌헨공대 양조학과 출신의 브루마스터가 만드는 독일 맥주를 먹을 수 있는 맥주집입니다.
+   - [홈페이지](https://www.instagram.com/einglas_bier)
+   #### [히든트랙](http://naver.me/FwnAACx9)
+   - 주소 : 서울 동대문구 약령시로 6
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/hiddentrack_anam/)
+   #### [맥주덕후_피자덕후](http://naver.me/57wWJyLf)
+   - 주소 : 서울 강남구 선릉로157길 23
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/beerduckhu)
+   #### [NOOSA_PUB](http://naver.me/5y4qnnA2)
+   - 주소 : 서울 은평구 연서로29길 22-38
+   - 종류 : 탭룸
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/noosa_pub/)
    ### 울산
 #### [트레비어_양조장](https://map.naver.com/v5/entry/place/37069573)
    - 주소 : 울산 울주군 언양읍 반구대로 1305-2
@@ -924,6 +1181,11 @@
    - 종류 : 브루펍
    - 특징 : 
    - [홈페이지](https://map.naver.com/v5/entry/place/1785492357)
+   #### [엑스트라스몰_브루잉룸](http://naver.me/5X9wReVq)
+   - 주소 : 인천 연수구 청명로 19
+   - 종류 : 브루펍
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/xs.brewing.rm/)
    ### 전라
 #### [파머스브루어리](https://map.naver.com/v5/entry/place/1651502871)
    - 주소 : 전북 전주시 완산구 전주객사1길 15 
@@ -950,6 +1212,11 @@
    - 종류 : 브루펍
    - 특징 : 
    - [홈페이지](https://www.instagram.com/gunsan_beerport/)
+   #### [오매](http://naver.me/5wfrPGW6)
+   - 주소 : 전남 여수시 안심산길 23-1
+   - 종류 : 브루펍
+   - 특징 : 
+   - [홈페이지](https://www.instagram.com/ohmae_brewery/)
    ### 제주
 #### [맥파이_브루어리](https://map.naver.com/v5/entry/place/38350155)
    - 주소 : 제주 제주시 동회천1길 23
