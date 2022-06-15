@@ -6,7 +6,7 @@
 		"naverUrl" : "https:\/\/map.naver.com\/v5\/entry\/place\/505375149",
 		"address" : "서울 강남구 역삼로 118",
 		"beerType" : "브루펍",
-		"desc" : null,
+		"desc" : "구스 아일랜드 직영펍",
 		"homepage" : "https:\/\/gooseisland.kr",
 		"x" : "127.03218003162604",
 		"y" : "37.49343153399763"
@@ -30,7 +30,7 @@
 		"naverUrl" : "https:\/\/map.naver.com\/v5\/entry\/place\/36877874",
 		"address" : "서울 강남구 신사동 544-22",
 		"beerType" : "탭룸",
-		"desc" : null,
+		"desc" : "미켈러의 다양한 드래프트를 마실 수 있음",
 		"homepage" : "https:\/\/mikkeller.com\/locations\/mikkeller-bar-seoul",
 		"x" : "127.02394480222783",
 		"y" : "37.52083433304024"
@@ -66,7 +66,7 @@
 		"naverUrl" : "https:\/\/map.naver.com\/v5\/entry\/place\/1748309953",
 		"address" : "서울 강북구 인수봉로 238",
 		"beerType" : "탭룸",
-		"desc" : null,
+		"desc" : "화수 브루어리의 다양한 맥주를 드래프트, 캔으로 즐길 수 있음",
 		"homepage" : "https:\/\/www.instagram.com\/whasoobrewery_seoul",
 		"x" : "127.0119708893687",
 		"y" : "37.64028148009374"
@@ -2233,15 +2233,15 @@
 	},
 	{
 		"idx" : 187,
-		"sidoNm" : "경기",
+		"sidoNm" : "경상",
 		"name" : "한우돌곱창",
-		"naverUrl" : "http:\/\/naver.me\/GkKSWtuV",
-		"address" : "경기 화성시 동탄중심상가2길 36\t",
-		"beerType" : "곱창집",
+		"naverUrl" : "http:\/\/naver.me\/IDB11vUL",
+		"address" : "경남 창원시 마산회원구 양덕서8길 25 한일타운 상가 지하1층 한우돌곱창",
+		"beerType" : " 곱창집",
 		"desc" : "곱창과 같이 수제맥주를 드셔보세요",
 		"homepage" : "https:\/\/www.instagram.com\/hanwoo0033\/",
-		"x" : "127.07349694625435",
-		"y" : "37.20679319804272"
+		"x" : "128.579415",
+		"y" : "35.2318996"
 	},
 	{
 		"idx" : 188,
@@ -2257,18 +2257,6 @@
 	},
 	{
 		"idx" : 189,
-		"sidoNm" : "경기",
-		"name" : "더바틀룸",
-		"naverUrl" : "http:\/\/naver.me\/5zJov4JU",
-		"address" : "경기 성남시 분당구 정자일로 121\n",
-		"beerType" : "바틀샵",
-		"desc" : "여러 종류의 맥주를 판매하는 바틀샵입니다",
-		"homepage" : "http:\/\/www.instagram.com\/the_bottle_room\n",
-		"x" : "127.10581491429487",
-		"y" : "37.36109816139617"
-	},
-	{
-		"idx" : 190,
 		"sidoNm" : "경상",
 		"name" : "통영맥주",
 		"naverUrl" : "http:\/\/naver.me\/FEJdzxDn",
@@ -2280,7 +2268,7 @@
 		"y" : "34.844760312539336"
 	},
 	{
-		"idx" : 191,
+		"idx" : 190,
 		"sidoNm" : "경상",
 		"name" : "진주탭룸",
 		"naverUrl" : "http:\/\/naver.me\/GEAIf39z",
@@ -2292,19 +2280,19 @@
 		"y" : "35.170788200305736"
 	},
 	{
-		"idx" : 192,
+		"idx" : 191,
 		"sidoNm" : "서울",
 		"name" : "로즈앤크라운",
 		"naverUrl" : "http:\/\/naver.me\/xM28j9vX",
 		"address" : "서울 용산구 이태원로19길 6",
 		"beerType" : "탭룸",
 		"desc" : "영국식 스타일 펍입니다.",
-		"homepage" : "http:\/\/www.instagram.com\/the_roseandcrown\n",
+		"homepage" : "http:\/\/www.instagram.com\/the_roseandcrown",
 		"x" : "126.99199751419442",
 		"y" : "37.53474125713381"
 	},
 	{
-		"idx" : 193,
+		"idx" : 192,
 		"sidoNm" : "부산",
 		"name" : "컬러드",
 		"naverUrl" : "http:\/\/naver.me\/GhPW9zL2",
@@ -2316,7 +2304,7 @@
 		"y" : "35.22987658368891"
 	},
 	{
-		"idx" : 194,
+		"idx" : 193,
 		"sidoNm" : "경기",
 		"name" : "후펍",
 		"naverUrl" : "http:\/\/naver.me\/GrSq2Pnj",
@@ -2328,7 +2316,7 @@
 		"y" : "37.26789818895645"
 	},
 	{
-		"idx" : 195,
+		"idx" : 194,
 		"sidoNm" : "서울",
 		"name" : "아인글라스",
 		"naverUrl" : "http:\/\/naver.me\/F1LDE3Ez",
@@ -2340,7 +2328,7 @@
 		"y" : "37.479919646380665"
 	},
 	{
-		"idx" : 196,
+		"idx" : 195,
 		"sidoNm" : "부산",
 		"name" : "꼽표XXX",
 		"naverUrl" : "http:\/\/naver.me\/IDBxZOFC",
@@ -2352,7 +2340,7 @@
 		"y" : "35.19288884184715"
 	},
 	{
-		"idx" : 197,
+		"idx" : 196,
 		"sidoNm" : "경상",
 		"name" : "위캔드커먼",
 		"naverUrl" : "http:\/\/naver.me\/FS6UukVf",
@@ -2364,7 +2352,7 @@
 		"y" : "35.841699898017154"
 	},
 	{
-		"idx" : 198,
+		"idx" : 197,
 		"sidoNm" : "경기",
 		"name" : "이스트앤박테리아",
 		"naverUrl" : "http:\/\/naver.me\/59eURL00",
@@ -2376,7 +2364,7 @@
 		"y" : "37.287931436478736"
 	},
 	{
-		"idx" : 199,
+		"idx" : 198,
 		"sidoNm" : "부산",
 		"name" : "티아펍",
 		"naverUrl" : "http:\/\/naver.me\/xrPnegCk",
@@ -2388,7 +2376,7 @@
 		"y" : "35.09966107426633"
 	},
 	{
-		"idx" : 200,
+		"idx" : 199,
 		"sidoNm" : "부산",
 		"name" : "아키투탭하우스",
 		"naverUrl" : "http:\/\/naver.me\/5eGwpELW",
@@ -2400,7 +2388,7 @@
 		"y" : "35.09860247880702"
 	},
 	{
-		"idx" : 201,
+		"idx" : 200,
 		"sidoNm" : "부산",
 		"name" : "와일드캣브루잉",
 		"naverUrl" : "http:\/\/naver.me\/GjR0XAIY",
@@ -2412,7 +2400,7 @@
 		"y" : "35.15091374846701"
 	},
 	{
-		"idx" : 202,
+		"idx" : 201,
 		"sidoNm" : "인천",
 		"name" : "엑스트라스몰 브루잉룸",
 		"naverUrl" : "http:\/\/naver.me\/5X9wReVq",
@@ -2424,7 +2412,7 @@
 		"y" : "37.41757132761446"
 	},
 	{
-		"idx" : 203,
+		"idx" : 202,
 		"sidoNm" : "서울",
 		"name" : "히든트랙",
 		"naverUrl" : "http:\/\/naver.me\/FwnAACx9",
@@ -2436,7 +2424,7 @@
 		"y" : "37.58253038757705"
 	},
 	{
-		"idx" : 204,
+		"idx" : 203,
 		"sidoNm" : "서울",
 		"name" : "맥주덕후 피자덕후",
 		"naverUrl" : "http:\/\/naver.me\/57wWJyLf",
@@ -2448,7 +2436,7 @@
 		"y" : "37.5261030134241"
 	},
 	{
-		"idx" : 205,
+		"idx" : 204,
 		"sidoNm" : "경기",
 		"name" : "노군수제맥주 동탄점",
 		"naverUrl" : "http:\/\/naver.me\/GeW7pe0E",
@@ -2460,7 +2448,7 @@
 		"y" : "37.20942145913365"
 	},
 	{
-		"idx" : 206,
+		"idx" : 205,
 		"sidoNm" : "경기",
 		"name" : "노군수제맥주 화성시청점",
 		"naverUrl" : "http:\/\/naver.me\/5cTNFnTZ",
@@ -2472,7 +2460,7 @@
 		"y" : "37.202490503299614"
 	},
 	{
-		"idx" : 207,
+		"idx" : 206,
 		"sidoNm" : "경상",
 		"name" : "호피홀리데이",
 		"naverUrl" : "http:\/\/naver.me\/xWNTLQWm",
@@ -2484,7 +2472,7 @@
 		"y" : "36.384122702085584"
 	},
 	{
-		"idx" : 208,
+		"idx" : 207,
 		"sidoNm" : "서울",
 		"name" : "NOOSA PUB",
 		"naverUrl" : "http:\/\/naver.me\/5y4qnnA2",
