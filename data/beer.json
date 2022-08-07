@@ -2482,5 +2482,65 @@
 		"homepage" : "https:\/\/www.instagram.com\/noosa_pub\/",
 		"x" : "126.9179930646675",
 		"y" : "37.62002298073675"
+	},
+	{
+		"idx" : 209,
+		"sidoNm" : "서울",
+		"name" : "을지로 외계인",
+		"naverUrl" : "https:\/\/naver.me\/Fx4vuQez",
+		"address" : "서울 중구 퇴계로41길 31 2층",
+		"beerType" : "탭룸",
+		"desc" : "에일리언브루잉의 탭룸입니다.",
+		"homepage" : "https:\/\/instagram.com\/eulji_aleian",
+		"x" : null,
+		"y" : null
+	},
+	{
+		"idx" : 210,
+		"sidoNm" : "서울",
+		"name" : "레드코티지",
+		"naverUrl" : "https:\/\/naver.me\/FyeUMqPY",
+		"address" : "서울 용산구 대사관로 77 2층",
+		"beerType" : "탭룸",
+		"desc" : null,
+		"homepage" : null,
+		"x" : null,
+		"y" : null
+	},
+	{
+		"idx" : 211,
+		"sidoNm" : "경기",
+		"name" : "버드나무 크래프트",
+		"naverUrl" : "https:\/\/naver.me\/GsTOlacQ\t",
+		"address" : "경기 화성시 동탄대로 181 레이크꼬모 B3층 CB334",
+		"beerType" : "탭룸",
+		"desc" : "강원도 버드나무 브루어리의 탭룸입니다",
+		"homepage" : "https:\/\/www.instagram.com\/budnamu_craft_dongtan\/",
+		"x" : null,
+		"y" : null
+	},
+	{
+		"idx" : 212,
+		"sidoNm" : "제주",
+		"name" : "드링킹타이거",
+		"naverUrl" : "https:\/\/naver.me\/53Xnk1ZU",
+		"address" : "제주 제주시 한림읍 한림로 328 2층",
+		"beerType" : "탭룸",
+		"desc" : null,
+		"homepage" : "https:\/\/www.instagram.com\/drinkingtiger",
+		"x" : null,
+		"y" : null
+	},
+	{
+		"idx" : 213,
+		"sidoNm" : "경기",
+		"name" : "위클리비어",
+		"naverUrl" : "https:\/\/naver.me\/xYQWHRYz",
+		"address" : "충남 천안시 서북구 서부대로 688 1동 1층 115호",
+		"beerType" : "탭룸",
+		"desc" : null,
+		"homepage" : "http:\/\/instagram.com\/weekly.beer\/",
+		"x" : null,
+		"y" : null
 	}
 ]
