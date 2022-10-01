@@ -17,7 +17,10 @@ try {
     data += ` - 주소 : ${brewery.address}\n`;
     data += `- 종류 : ${brewery.beerType}\n`;
     data += ` - 특징 : ${brewery.desc}\n`;
-    data += `- [홈페이지](${brewery.homepageUrl})\n`;
+    if (brewery.homepage != "") {
+      data += `- [홈페이지](${brewery.homepage})\n`;
+    }
+
     fs.appendFileSync(sidoNmPath, data);
   }
 
