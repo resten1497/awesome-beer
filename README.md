@@ -68,7 +68,7 @@
 
  <div align = center >
 
-![Generic badge](https://img.shields.io/badge/updateDate-2022--10--01-green.svg)
+![Generic badge](https://img.shields.io/badge/updateDate-2022--10--11-green.svg)
 
 <a href="http://supportlocal.kr/supportlocal" target="_blank"><img src="./support_local.jpg" width="100px" ></a>
 
